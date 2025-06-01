@@ -1191,7 +1191,7 @@ https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear309-it-dash1-prd-
 
 #EXTINF:-1 tvg-id="dazn1.it" group-title="Sky;MPD",DAZN 1 (MPD)
 https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-024/stream.mpd&key_id=8ab47741930c476780515f9a00decb0a&key=7ab4b9ae5a48aa526e511a913b832769
-#EXTINF:-1 tvg-id="German Womens Regionalliga - Viktoria Berlin vs Fortuna Dresden" tvg-name="14:00 German Womens Regionalliga : Viktoria Berlin vs Fortuna Dresden - 01/06/25" tvg-logo="https://allekickenmit.berlin/wp-63c5a-content/uploads/2020/01/Viktoria89.png" group-title="Calcio", Sky Sport Bundesliga 1
+#EXTINF:-1 tvg-id="German Womens Regionalliga - Viktoria Berlin vs Fortuna Dresden" tvg-name="14:00 German Womens Regionalliga : Viktoria Berlin vs Fortuna Dresden - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Viktoria%20Berlin_vs_Fortuna%20Dresden.png" group-title="Calcio", Sky Sport Bundesliga 1
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-558.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Austria - Football Bundesliga - Rapid Wien vs LASK Linz" tvg-name="17:00 Austria - Football Bundesliga : Rapid Wien vs LASK Linz - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Rapid%20Wien_vs_LASK%20Linz.png" group-title="Calcio", Sky Sport 1 Austria
@@ -1206,28 +1206,28 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="Austria - Football Bundesliga - Rapid Wien vs LASK Linz" tvg-name="17:00 Austria - Football Bundesliga : Rapid Wien vs LASK Linz - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Rapid%20Wien_vs_LASK%20Linz.png" group-title="Calcio", 5 Sport Israel
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Italy - Serie B - Spezia vs Cremonese" tvg-name="20:30 Italy - Serie B : Spezia vs Cremonese - 01/06/25" tvg-logo="https://logodetimes.com/times/spezia-calcio/spezia-calcio-4096.png" group-title="Calcio", DAZN Italia
+#EXTINF:-1 tvg-id="Italy - Serie B - Spezia vs Cremonese" tvg-name="20:30 Italy - Serie B : Spezia vs Cremonese - 01/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1748769723_spezia-x-cremonese.png" group-title="Calcio", DAZN Italia
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-10.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Italy - Serie B - Spezia vs Cremonese" tvg-name="20:30 Italy - Serie B : Spezia vs Cremonese - 01/06/25" tvg-logo="https://logodetimes.com/times/spezia-calcio/spezia-calcio-4096.png" group-title="Calcio", Fox Soccer Plus
+#EXTINF:-1 tvg-id="Italy - Serie B - Spezia vs Cremonese" tvg-name="20:30 Italy - Serie B : Spezia vs Cremonese - 01/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1748769723_spezia-x-cremonese.png" group-title="Calcio", Fox Soccer Plus
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-756.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Italy - Serie B - Spezia vs Cremonese" tvg-name="20:30 Italy - Serie B : Spezia vs Cremonese - 01/06/25" tvg-logo="https://logodetimes.com/times/spezia-calcio/spezia-calcio-4096.png" group-title="Calcio", 5 Plus Israel
+#EXTINF:-1 tvg-id="Italy - Serie B - Spezia vs Cremonese" tvg-name="20:30 Italy - Serie B : Spezia vs Cremonese - 01/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1748769723_spezia-x-cremonese.png" group-title="Calcio", 5 Plus Israel
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-145.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Canada - Canadian Premier League - Valour vs Pacific" tvg-name="22:00 Canada - Canadian Premier League : Valour vs Pacific - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Valour_vs_Pacific.png" group-title="Calcio", OneSoccer
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-55.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Brazil - Serie B - CRB vs Remo" tvg-name="23:00 Brazil - Serie B : CRB vs Remo - 01/06/25" tvg-logo="https://logodetimes.com/times/crb/logo-crb-2048.png" group-title="Calcio", ESPN4 Brazil
+#EXTINF:-1 tvg-id="Brazil - Serie B - CRB vs Remo" tvg-name="23:00 Brazil - Serie B : CRB vs Remo - 01/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1748769723_spezia-x-cremonese.png" group-title="Calcio", ESPN4 Brazil
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-85.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Popyrin A. vs Paul T." tvg-name="11:00 ATP - ROLAND GARROS : Popyrin A. vs Paul T. - 01/06/25" tvg-logo="https://beturi.ro/wp-content/uploads/2021/02/alexei-popyrin-logo-1.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 2
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Popyrin A. vs Paul T." tvg-name="11:00 ATP - ROLAND GARROS : Popyrin A. vs Paul T. - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Popyrin%20A._vs_Paul%20T..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 2
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Popyrin A. vs Paul T." tvg-name="11:00 ATP - ROLAND GARROS : Popyrin A. vs Paul T. - 01/06/25" tvg-logo="https://beturi.ro/wp-content/uploads/2021/02/alexei-popyrin-logo-1.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Popyrin A. vs Paul T." tvg-name="11:00 ATP - ROLAND GARROS : Popyrin A. vs Paul T. - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Popyrin%20A._vs_Paul%20T..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Popyrin A. vs Paul T." tvg-name="11:00 ATP - ROLAND GARROS : Popyrin A. vs Paul T. - 01/06/25" tvg-logo="https://beturi.ro/wp-content/uploads/2021/02/alexei-popyrin-logo-1.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 22
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Popyrin A. vs Paul T." tvg-name="11:00 ATP - ROLAND GARROS : Popyrin A. vs Paul T. - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Popyrin%20A._vs_Paul%20T..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 22
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Shelton B. vs Alcaraz C." tvg-name="14:00 ATP - ROLAND GARROS : Shelton B. vs Alcaraz C. - 01/06/25" tvg-logo="https://cdnsm5-ss16.sharpschool.com/UserFiles/Servers/Server_16522437/Image/Depts/Communication/Shelton Success Logo Color.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 16
@@ -1239,13 +1239,13 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Shelton B. vs Alcaraz C." tvg-name="14:00 ATP - ROLAND GARROS : Shelton B. vs Alcaraz C. - 01/06/25" tvg-logo="https://cdnsm5-ss16.sharpschool.com/UserFiles/Servers/Server_16522437/Image/Depts/Communication/Shelton Success Logo Color.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 1521
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Tiafoe F. vs Altmaier D." tvg-name="16:00 ATP - ROLAND GARROS : Tiafoe F. vs Altmaier D. - 01/06/25" tvg-logo="https://newmedia.xscores.com/tennis/TIAFOE F..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 2
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Tiafoe F. vs Altmaier D." tvg-name="16:00 ATP - ROLAND GARROS : Tiafoe F. vs Altmaier D. - 01/06/25" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2022/05/25/15/40/tiafoe-head-2022-may.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 2
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Tiafoe F. vs Altmaier D." tvg-name="16:00 ATP - ROLAND GARROS : Tiafoe F. vs Altmaier D. - 01/06/25" tvg-logo="https://newmedia.xscores.com/tennis/TIAFOE F..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Tiafoe F. vs Altmaier D." tvg-name="16:00 ATP - ROLAND GARROS : Tiafoe F. vs Altmaier D. - 01/06/25" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2022/05/25/15/40/tiafoe-head-2022-may.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Tiafoe F. vs Altmaier D." tvg-name="16:00 ATP - ROLAND GARROS : Tiafoe F. vs Altmaier D. - 01/06/25" tvg-logo="https://newmedia.xscores.com/tennis/TIAFOE F..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 1522
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Tiafoe F. vs Altmaier D." tvg-name="16:00 ATP - ROLAND GARROS : Tiafoe F. vs Altmaier D. - 01/06/25" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2022/05/25/15/40/tiafoe-head-2022-may.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 1522
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Musetti L. vs Rune H." tvg-name="20:15 ATP - ROLAND GARROS : Musetti L. vs Rune H. - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Musetti%20L._vs_Rune%20H..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 16
@@ -1266,13 +1266,13 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Paolini J. vs Svitolina E." tvg-name="11:00 WTA - ROLAND GARROS : Paolini J. vs Svitolina E. - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Paolini%20J._vs_Svitolina%20E..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 21
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Rybakina E. vs Swiatek I." tvg-name="12:30 WTA - ROLAND GARROS : Rybakina E. vs Swiatek I. - 01/06/25" tvg-logo="https://s.hs-data.com/gfx/competition/png/normal/100x100/6203.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 16
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Rybakina E. vs Swiatek I." tvg-name="12:30 WTA - ROLAND GARROS : Rybakina E. vs Swiatek I. - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Rybakina%20E._vs_Swiatek%20I..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 16
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Rybakina E. vs Swiatek I." tvg-name="12:30 WTA - ROLAND GARROS : Rybakina E. vs Swiatek I. - 01/06/25" tvg-logo="https://s.hs-data.com/gfx/competition/png/normal/100x100/6203.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 1
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Rybakina E. vs Swiatek I." tvg-name="12:30 WTA - ROLAND GARROS : Rybakina E. vs Swiatek I. - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Rybakina%20E._vs_Swiatek%20I..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 1
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Rybakina E. vs Swiatek I." tvg-name="12:30 WTA - ROLAND GARROS : Rybakina E. vs Swiatek I. - 01/06/25" tvg-logo="https://s.hs-data.com/gfx/competition/png/normal/100x100/6203.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 21
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Rybakina E. vs Swiatek I." tvg-name="12:30 WTA - ROLAND GARROS : Rybakina E. vs Swiatek I. - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Rybakina%20E._vs_Swiatek%20I..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 21
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Samsonova L. vs Zheng Q." tvg-name="13:00 WTA - ROLAND GARROS : Samsonova L. vs Zheng Q. - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Samsonova%20L._vs_Zheng%20Q..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 2
@@ -1299,10 +1299,10 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Gonzalez S./Krajicek A. vs Granollers M./Zeballos H." tvg-name="11:00 ATP DOUBLES - ROLAND GARROS : Gonzalez S./Krajicek A. vs Granollers M./Zeballos H. - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Zeballos%20H..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 23
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Bhambri Y./Galloway R. vs Harrison C./King E." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Bhambri Y./Galloway R. vs Harrison C./King E. - 01/06/25" tvg-logo="https://bhambrisolar.com/assets/img/logos/logo2.png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Bhambri Y./Galloway R. vs Harrison C./King E." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Bhambri Y./Galloway R. vs Harrison C./King E. - 01/06/25" tvg-logo="https://bhambrisolar.com/assets/img/commercial/logo5.png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 7
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Bhambri Y./Galloway R. vs Harrison C./King E." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Bhambri Y./Galloway R. vs Harrison C./King E. - 01/06/25" tvg-logo="https://bhambrisolar.com/assets/img/logos/logo2.png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 27
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Bhambri Y./Galloway R. vs Harrison C./King E." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Bhambri Y./Galloway R. vs Harrison C./King E. - 01/06/25" tvg-logo="https://bhambrisolar.com/assets/img/commercial/logo5.png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 27
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Bopanna R./Pavlasek A. vs Heliovaara H./Patten H." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Bopanna R./Pavlasek A. vs Heliovaara H./Patten H. - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Patten%20H..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 14
@@ -1335,10 +1335,10 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Kudermetova V./Mertens E. vs Bronzetti L./Li A." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Kudermetova V./Mertens E. vs Bronzetti L./Li A. - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Li%20A..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 26
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Danilovic O./Potapova A. vs Mihalikova T./Nicholls O." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Danilovic O./Potapova A. vs Mihalikova T./Nicholls O. - 01/06/25" tvg-logo="https://nb-bet.com/Images/tennis/111/15743707438561.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 14
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Danilovic O./Potapova A. vs Mihalikova T./Nicholls O." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Danilovic O./Potapova A. vs Mihalikova T./Nicholls O. - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Nicholls%20O..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 14
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Danilovic O./Potapova A. vs Mihalikova T./Nicholls O." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Danilovic O./Potapova A. vs Mihalikova T./Nicholls O. - 01/06/25" tvg-logo="https://nb-bet.com/Images/tennis/111/15743707438561.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 34
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Danilovic O./Potapova A. vs Mihalikova T./Nicholls O." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Danilovic O./Potapova A. vs Mihalikova T./Nicholls O. - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Nicholls%20O..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 34
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Jiang X./Galloway R. vs Errani S./Vavassori A." tvg-name="15:30 MIXED DOUBLES - ROLAND GARROS : Jiang X./Galloway R. vs Errani S./Vavassori A. - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Vavassori%20A..png" group-title="Tennis Mixed Doubles - Roland Garros", Tennis Stream 7
@@ -1647,7 +1647,7 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="World Cup | Denver Men's and Women's Speed ??| Final - World Cup | Denver Men's and Women's Speed ??| Final" tvg-name="00:00 World Cup | Denver Men's and Women's Speed ??| Final - 01/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Arrampicata", EuroSport 1 Italy
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="VTB United League - CSKA Moscow vs Zenit Petersburg" tvg-name="13:00 VTB United League : CSKA Moscow vs Zenit Petersburg - 01/06/25" tvg-logo="https://logodetimes.com/times/cska-moscou/logo-cska-moscou-4096.png" group-title="Basket", Match TV Russia
+#EXTINF:-1 tvg-id="VTB United League - CSKA Moscow vs Zenit Petersburg" tvg-name="13:00 VTB United League : CSKA Moscow vs Zenit Petersburg - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/CSKA%20Moscow_vs_Zenit%20Petersburg.png" group-title="Basket", Match TV Russia
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-127.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="LKL - Lietkabelis vs Lietuvos Rytas" tvg-name="15:50 LKL : Lietkabelis vs Lietuvos Rytas - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Lietkabelis_vs_Lietuvos%20Rytas.png" group-title="Basket", Sport klub 5 Croatia
@@ -1833,10 +1833,10 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="European Golden League Women - Montenegro vs Ukraine" tvg-name="18:00 European Golden League Women : Montenegro vs Ukraine - 01/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Montenegro_vs_Ukraine.png" group-title="Pallavolo", Arena Sport 4 Croatia
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-580.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="European Golden League Women - Greece W vs Slovakia W" tvg-name="18:00 European Golden League Women : Greece W vs Slovakia W - 01/06/25" tvg-logo="http://www.nouahsark.com/data/images/infocenter/worldwide/europe/emblem/greece.png" group-title="Pallavolo", JOJ Sport Slovakia
+#EXTINF:-1 tvg-id="European Golden League Women - Greece W vs Slovakia W" tvg-name="18:00 European Golden League Women : Greece W vs Slovakia W - 01/06/25" tvg-logo="https://logos-download.com/wp-content/uploads/2021/07/Coat_of_arms_of_Greece.png" group-title="Pallavolo", JOJ Sport Slovakia
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-110.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="European Golden League Women - Greece W vs Slovakia W" tvg-name="18:00 European Golden League Women : Greece W vs Slovakia W - 01/06/25" tvg-logo="http://www.nouahsark.com/data/images/infocenter/worldwide/europe/emblem/greece.png" group-title="Pallavolo", ERT 2 Greece
+#EXTINF:-1 tvg-id="European Golden League Women - Greece W vs Slovakia W" tvg-name="18:00 European Golden League Women : Greece W vs Slovakia W - 01/06/25" tvg-logo="https://logos-download.com/wp-content/uploads/2021/07/Coat_of_arms_of_Greece.png" group-title="Pallavolo", ERT 2 Greece
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-17.php&redirect_stream=true
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
