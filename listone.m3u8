@@ -1188,10 +1188,10 @@ https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://dcf-fs-live-dazn-cdn.da
 #EXTINF:-1 tvg-id="World Cup Qualifying - Bosnia and Herzegovina vs San Marino" tvg-name="15:00 World Cup Qualifying : Bosnia and Herzegovina vs San Marino - 07/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749284596_bosnia-and-herzegovina-x-san-marino.png" group-title="Calcio", SuperSport Premier League
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Andorra vs England" tvg-name="18:00 World Cup Qualifying : Andorra vs England - 07/06/25" tvg-logo="https://seeklogo.com/images/F/fc-andorra-logo-20DA371E8C-seeklogo.com.png" group-title="Calcio", Nova Sports Premier League Greece
+#EXTINF:-1 tvg-id="World Cup Qualifying - Andorra vs England" tvg-name="18:00 World Cup Qualifying : Andorra vs England - 07/06/25" tvg-logo="https://seeklogo.com/images/F/fc-andorra-logo-2ADDBB82C7-seeklogo.com.png" group-title="Calcio", Nova Sports Premier League Greece
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-599.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Andorra vs England" tvg-name="18:00 World Cup Qualifying : Andorra vs England - 07/06/25" tvg-logo="https://seeklogo.com/images/F/fc-andorra-logo-20DA371E8C-seeklogo.com.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="World Cup Qualifying - Andorra vs England" tvg-name="18:00 World Cup Qualifying : Andorra vs England - 07/06/25" tvg-logo="https://seeklogo.com/images/F/fc-andorra-logo-2ADDBB82C7-seeklogo.com.png" group-title="Calcio", SuperSport Premier League
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Netherlands" tvg-name="20:45 World Cup Qualifying : Finland vs Netherlands - 07/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749284262_finland-x-netherlands.png" group-title="Calcio", SuperSport Premier League
@@ -1839,7 +1839,7 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="NBL - Manawatu Jets vs Nelson Giants" tvg-name="02:00 NBL : Manawatu Jets vs Nelson Giants - 07/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Manawatu%20Jets_vs_Nelson%20Giants.png" group-title="Basket", Sky Sport 5 NZ
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-592.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="NBL - Auckland Tuatara vs Tauranga Whai" tvg-name="04:00 NBL : Auckland Tuatara vs Tauranga Whai - 07/06/25" tvg-logo="https://assets.b365api.com/images/team/b/560596.png" group-title="Basket", Sky Sport 4 NZ
+#EXTINF:-1 tvg-id="NBL - Auckland Tuatara vs Tauranga Whai" tvg-name="04:00 NBL : Auckland Tuatara vs Tauranga Whai - 07/06/25" tvg-logo="https://aucklandtuatara.com/wp-content/uploads/2022/07/cropped-Auckland_Tuatara_Favicon.png" group-title="Basket", Sky Sport 4 NZ
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-591.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WNBA - Seattle Storm vs Phoenix Mercury" tvg-name="04:00 WNBA : Seattle Storm vs Phoenix Mercury - 07/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Seattle%20Storm_vs_Phoenix%20Mercury.png" group-title="Basket", WNBA League Pass
