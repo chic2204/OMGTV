@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Popyrin A. vs Bergs Z." tvg-name="13:00 ATP - HERTOGENBOSCH : Popyrin A. vs Bergs Z. - 12/06/25" tvg-logo="https://www.tipsbetting.co.uk/wp-content/uploads/2021/02/Popyrin-Al.-.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Popyrin A. vs Bergs Z." tvg-name="13:00 ATP - HERTOGENBOSCH : Popyrin A. vs Bergs Z. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Popyrin%20A._vs_Bergs%20Z..png" group-title="Atp - Hertogenbosch", Tennis Stream 7
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Medvedev D. vs Mannarino A." tvg-name="15:00 ATP - HERTOGENBOSCH : Medvedev D. vs Mannarino A. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Medvedev%20D._vs_Mannarino%20A..png" group-title="Atp - Hertogenbosch", Tennis Stream 7
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Lajal M. vs Hurkacz H." tvg-name="16:00 ATP - HERTOGENBOSCH : Lajal M. vs Hurkacz H. - 12/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20230622/original/pngtree-abstract-letter-m-logo-png-image_9203650.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Lajal M. vs Hurkacz H." tvg-name="16:00 ATP - HERTOGENBOSCH : Lajal M. vs Hurkacz H. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Lajal%20M._vs_Hurkacz%20H..png" group-title="Atp - Hertogenbosch", Tennis Stream 7
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - STUTTGART - Michelsen A. vs Engel J." tvg-name="11:00 ATP - STUTTGART : Michelsen A. vs Engel J. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Michelsen%20A._vs_Engel%20J..png" group-title="Atp - Stuttgart", Tennis Stream 8
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - STUTTGART - Mpetshi Perricard G. vs Auger-Aliassime F." tvg-name="12:30 ATP - STUTTGART : Mpetshi Perricard G. vs Auger-Aliassime F. - 12/06/25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_informations.svg/20px-Logo_informations.svg.png" group-title="Atp - Stuttgart", Tennis Stream 8
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Mpetshi Perricard G. vs Auger-Aliassime F." tvg-name="12:30 ATP - STUTTGART : Mpetshi Perricard G. vs Auger-Aliassime F. - 12/06/25" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2020/mpetshi-perricard-2022-head.png" group-title="Atp - Stuttgart", Tennis Stream 8
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - STUTTGART - Zverev A. vs Moutet C." tvg-name="15:00 ATP - STUTTGART : Zverev A. vs Moutet C. - 12/06/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/01/Zverev-PNG-Tennis-Render-Sport-Renders.png" group-title="Atp - Stuttgart", Tennis Stream 8
@@ -122,7 +122,7 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="NBL - Auckland Tuatara vs Manawatu Jets" tvg-name="08:00 NBL : Auckland Tuatara vs Manawatu Jets - 12/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Auckland%20Tuatara_vs_Manawatu%20Jets.png" group-title="Basket", Sky Sport 3 NZ
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-590.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Lithuanian League - Zalgiris vs Rytas" tvg-name="17:50 Lithuanian League : Zalgiris vs Rytas - 12/06/25" tvg-logo="https://seeklogo.com/images/V/vmfd-zalgiris-current-logo-355FF41F90-seeklogo.com.png" group-title="Basket", Sport Klub 3 Croatia
+#EXTINF:-1 tvg-id="Lithuanian League - Zalgiris vs Rytas" tvg-name="17:50 Lithuanian League : Zalgiris vs Rytas - 12/06/25" tvg-logo="https://seeklogo.com/images/F/fc-zalgiris-vilnius-01-01-2015-logo-6582263095-seeklogo.com.png" group-title="Basket", Sport Klub 3 Croatia
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Toyrnoya Vaso Mpeskaki - Lithoyandia vs Greece" tvg-name="18:00 Toyrnoya Vaso Mpeskaki : Lithoyandia vs Greece - 12/06/25" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2022/02/emblem_of_lithuania-freelogovectors.net_.png" group-title="Basket", ERT 2 Greece
@@ -257,16 +257,16 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="Nations League - Poland vs Japan" tvg-name="14:30 Nations League : Poland vs Japan - 12/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Poland_vs_Japan.png" group-title="Pallavolo", MAX Sport 2 Bulgaria
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Brazil vs Cuba" tvg-name="22:30 Nations League : Brazil vs Cuba - 12/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil-novo-logo-2019/logo-selecao-brasileira-brasil-novo-logo-2019-4096.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Nations League - Brazil vs Cuba" tvg-name="22:30 Nations League : Brazil vs Cuba - 12/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Brazil_vs_Cuba.png" group-title="Pallavolo", Polsat Sport 1 Poland
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Brazil vs Cuba" tvg-name="22:30 Nations League : Brazil vs Cuba - 12/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil-novo-logo-2019/logo-selecao-brasileira-brasil-novo-logo-2019-4096.png" group-title="Pallavolo", SporTV2 Brazil
+#EXTINF:-1 tvg-id="Nations League - Brazil vs Cuba" tvg-name="22:30 Nations League : Brazil vs Cuba - 12/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Brazil_vs_Cuba.png" group-title="Pallavolo", SporTV2 Brazil
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Brazil vs Cuba" tvg-name="22:30 Nations League : Brazil vs Cuba - 12/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil-novo-logo-2019/logo-selecao-brasileira-brasil-novo-logo-2019-4096.png" group-title="Pallavolo", MAX Sport 1 Bulgaria
+#EXTINF:-1 tvg-id="Nations League - Brazil vs Cuba" tvg-name="22:30 Nations League : Brazil vs Cuba - 12/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Brazil_vs_Cuba.png" group-title="Pallavolo", MAX Sport 1 Bulgaria
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-472.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Brazil vs Cuba" tvg-name="22:30 Nations League : Brazil vs Cuba - 12/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil-novo-logo-2019/logo-selecao-brasileira-brasil-novo-logo-2019-4096.png" group-title="Pallavolo", Sport Klub HD Croatia
+#EXTINF:-1 tvg-id="Nations League - Brazil vs Cuba" tvg-name="22:30 Nations League : Brazil vs Cuba - 12/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Brazil_vs_Cuba.png" group-title="Pallavolo", Sport Klub HD Croatia
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League - Germany vs Italy" tvg-name="22:30 Nations League : Germany vs Italy - 12/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Germany_vs_Italy.png" group-title="Pallavolo", Polsat Sport 2 Poland
